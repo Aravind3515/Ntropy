@@ -1,4 +1,4 @@
-**Project Goal**-Estimate the crop yield for specific crops on farmland. Based on this information farmers can decide how much to ask for loans from banks or decide what crops to prioritize. This product would help farmers as well as this product could also be given to banks who can decide to give loans to farmers based on these yield of the farmers plot.
+**Project Goal**-Estimate the crop yield for specific crops on farmland. Based on this information farmers can decide what crops to prioritize. This product would help banks who can decide how much in loans to give to farmers based on thee yield of the farmers plot.
 
 
 
@@ -14,7 +14,7 @@ There was errors whild downloading the data so we had to find the plots with the
 
 To decide on what features to use for our model we used XgBoost- Feature Extraction.py
 
-We prepared the initial dataset- OriginalDataSetPrepCode.py but we got poor results
+We prepared the initial dataset- OriginalDataSetPrepCode.py but we got poor results due to lack of data
 
 To improve the accuracy of the model we applied data augmentation techniques and trained the final model- FinalDataSet-Model.py
 
