@@ -13,6 +13,7 @@ Data for a 1000 plots were collected to train the model. For previous years data
 For each plot that has a yield(provided by the farmers) the remote sensing data would be downloaded in the form of time series.Each plot of land has 3 years of MSI, SAR and Weather data recorded
 
 
+## Files
 There was errors while downloading the data so we had to find the plots with the errors and redownload the data- Missing Files.py
 
 To decide on what features to use for our model we used XgBoost- Feature Extraction.py
@@ -21,7 +22,7 @@ We prepared the initial dataset- OriginalDataSetPrepCode.py but we got poor resu
 
 To improve the accuracy of the model we applied data augmentation techniques and trained the final model- FinalDataSet-Model.py
 
-## Results:
+## Results
 
 Testing MAE: 0.092
 
