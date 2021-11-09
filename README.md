@@ -23,7 +23,7 @@ To improve the accuracy of the model we applied data augmentation techniques and
 
 ## Results:
 
-Testing Mae: 0.092
+Testing MAE: 0.092
 Correlation: 0.891
 
 
