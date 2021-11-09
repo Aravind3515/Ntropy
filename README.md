@@ -12,7 +12,7 @@ For each plot that has a yield(provided by the farmers) the remote sensing data 
 
 There was errors whild downloading the data so we had to find the plots with the errors and redownload the data- Missing Files.py
 
-To decide on what features to use for our model we used XgBoost- Feature Extraction
+To decide on what features to use for our model we used XgBoost- Feature Extraction.py
 
 We prepared the initial dataset- OriginalDataSetPrepCode.py but we got poor results
 
