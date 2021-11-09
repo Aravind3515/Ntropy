@@ -1,6 +1,7 @@
 # CROP YIELD ESTIMATION
 
-**Project Goal**-Estimate the crop yield for specific crops on farmland. Based on this information farmers can decide what crops to prioritize. This product would help banks who can decide how much in loans to give to farmers based on thee yield of the farmers plot.
+## Project Goal
+Estimate the crop yield for specific crops on farmland. Based on this information farmers can decide what crops to prioritize. This product would help banks who can decide how much in loans to give to farmers based on thee yield of the farmers plot.
 
 
 
