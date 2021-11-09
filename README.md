@@ -4,7 +4,7 @@
 Estimate the crop yield for specific crops on farmland. Based on this information farmers can decide what crops to prioritize. This product would help banks who can decide how much in loans to give to farmers based on thee yield of the farmers plot.
 
 
-
+##Data
 The dataset includes spectral bands which are downloaded from the Sentinel-2 satellite through an open-source platform. 
 
 Data for a 1000 plots were collected to train the model. For previous years data the yield produced by each plot for a crop over a season was recorded Data collected included the FPO ID, Plot ID, Latitude, Longitude etc. With the latitude and longitude of the plot we could then download the remote sensing data for that plot
